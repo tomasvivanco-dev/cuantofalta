@@ -3,29 +3,23 @@
 **Cuánto falta para el 11 de marzo de 2030**  
 *(Fin del mandato presidencial de José Antonio Kast - 2026-2030)*
 
+[![Vista previa del sitio](https://tomasvivanco-dev.github.io/cuantofalta/screenshot.png)](https://tomasvivanco-dev.github.io/cuantofalta/)
 
 ## ✨ Demo en vivo
-[![Desplegada en GitHub Pages]
-Sitio live: [https://tomasvivanco-dev.github.io/cuantofalta/)
+[![GitHub Pages Status](https://github.com/tomasvivanco-dev/cuantofalta/actions/workflows/pages/pages-build-deployment/badge.svg)](https://tomasvivanco-dev.github.io/cuantofalta/)
+
+**Sitio live**: [https://tomasvivanco-dev.github.io/cuantofalta/](https://tomasvivanco-dev.github.io/cuantofalta/)
 
 ## 🎨 Características
-- ✅ **Diseño inspirado en bandera chilena** (azul marino #0039A6 + blanco)
-- ✅ **Tipografía Merriweather** (Google Fonts)
-- ✅ **Totalmente responsivo** (móvil/tablet/desktop)
-- ✅ **Actualización en tiempo real** (cada segundo)
-- ✅ **Efectos visuales** (vidrio esmerilado, sombras, animaciones)
-- ✅ **Sin dependencias externas** (solo HTML/CSS/JS vanilla)
-- ✅ **Funciona offline** (service worker opcional)
+- ✅ **Diseño bandera chilena** (azul marino #0039A6 + blanco Merriweather)
+- ✅ **Responsivo 100%** (móvil/tablet/desktop)
+- ✅ **Tiempo real** (actualiza cada segundo)
+- ✅ **Efectos glassmorphism** (backdrop-filter, sombras)
+- ✅ **Sin backend** (HTML/CSS/JS puro)
+- ✅ **Optimizado** (< 10KB, carga instantánea)
 
+## 📱 Captura
+![Screenshot del contador](screenshot.png)
+*(Sube tu captura aquí como `screenshot.png` para que aparezca)*
 
-## 🚀 Despliegue en GitHub Pages
-1. Forkea o crea repositorio nuevo
-2. Sube `index.html` (código fuente abajo)
-3. **Settings > Pages > Source: `main` branch > Save**
-
-
-## 🔧 Personalización
-- **Cambiar fecha**: Edita `new Date("2030-03-11T00:00:00")`
-- **Agregar imagen**: Sube PNG (ej: `bandera.png`) y agrega `<img src="bandera.png" class="hero">`
-- **Colores**: Modifica CSS `--azul: #0039A6;`
-- **Texto**: Cambia `<h1>Fin del Gobierno de Kast</h1>`
+## 🚀 Ya está desplegado en GitHub Pages
