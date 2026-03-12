@@ -19,7 +19,7 @@
 - ✅ **Optimizado** (< 10KB, carga instantánea)
 
 ## 📱 Captura
-![Screenshot del contador]([screenshot.png](https://github.com/tomasvivanco-dev/cuantofalta/blob/0c4b330407db1aa5203c6e52e59e4779754856f5/Captura%20de%20pantalla%202026-03-11%20a%20la(s)%2021.28.54.png))
+![Screenshot del contador]([screenshot.png])
 
 
 ## 🚀 Ya está desplegado en GitHub Pages
