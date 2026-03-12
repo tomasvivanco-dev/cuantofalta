@@ -19,7 +19,11 @@
 - ✅ **Optimizado** (< 10KB, carga instantánea)
 
 ## 📱 Captura
-![Screenshot del contador]([screenshot.png])
-
+![Screenshot del contador](screenshot.png)
 
 ## 🚀 Ya está desplegado en GitHub Pages
+
+## 🔧 Personalizar fácilmente
+```javascript
+// Cambiar fecha (línea ~140 en index.html)
+const targetDate = new Date("2030-03-11T00:00:00");
